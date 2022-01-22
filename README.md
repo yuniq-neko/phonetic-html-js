@@ -11,4 +11,4 @@ Simply run this script on a page with a 'input' tag on a text box, and a 'output
 
 You can also change the 'input' and 'output' ID's at the top of the script. :)
 
-A demo is available [here](https://yuniq-neko.github.io/phonetic-html-js/phonetics/)!
+A demo is available [here](https://yuniq-neko.github.io/phonetics/)!
